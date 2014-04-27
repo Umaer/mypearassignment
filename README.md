@@ -5,7 +5,7 @@ You can run script by calling source("run_analysis.R")
 
 Make sure to set working directory first before calling the script
 
-The script reads data from directory Samsung data so make sure it is not blank
+Make sure to create Samsung data directory first
 
 Samsung data must contain UCI HAR Dataset and UCI HAR Dataset must contain test and train directory and other files which we all downloaded for implementing this task
 
